@@ -1,0 +1,9 @@
+# File #
+*.properties
+
+# find ./ -name ".git" | xargs rm -Rf
+# git checkout <branch>
+# git remote origin url
+# git remote remove
+# git remote -v
+# git add / git commit -m / git push remotName
